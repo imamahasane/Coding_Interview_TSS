@@ -9,3 +9,5 @@ def remove_duplicates(nums):
             unique_nums.append(nums[i])
             
     return len(unique_nums)
+
+# Note
